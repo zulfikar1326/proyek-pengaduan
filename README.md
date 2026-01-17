@@ -1,0 +1,92 @@
+#“Perancangan dan Implementasi Sistem Informasi Pengaduan Masyarakat Berbasis Web Menggunakan Arsitektur Serverless AWS”
+
+---
+## Anggota Kelompok
+  - Zulfikar Juniarto (Fronend)
+  - Arya (DevOps)
+  - Edo (Backend)
+  - Akbar (Cloud Engineering)
+---
+
+## 🔐 Autentikasi & Role
+
+Autentikasi dilakukan secara **sederhana** menggunakan:
+- Email
+- Password (plain text)
+
+Role:
+- `USER`
+- `ADMIN`
+
+> Pendekatan ini dipilih untuk menjaga kesederhanaan sistem dan fokus pada implementasi arsitektur serverless.
+
+---
+
+## 📡 Endpoint API
+
+| Method | Endpoint | Deskripsi |
+|------|---------|----------|
+| POST | `/auth/register` | Registrasi user |
+| POST | `/auth/login` | Login user/admin |
+| POST | `/pengaduan` | Membuat pengaduan |
+| GET | `/pengaduan/user` | Pengaduan milik user |
+| GET | `/pengaduan/admin` | Semua pengaduan |
+| PUT | `/pengaduan/{id}` | Update status |
+| DELETE | `/pengaduan/{id}` | Hapus pengaduan |
+
+---
+
+## 🧪 Testing
+
+Pengujian backend dilakukan menggunakan **Postman** dengan skenario:
+1. Register user
+2. Login user
+3. Create pengaduan
+4. Login admin
+5. Update status pengaduan
+6. Verifikasi perubahan data
+
+Semua endpoint telah diuji dan berjalan dengan baik.
+
+---
+
+## 📦 Deployment
+
+### Frontend
+- Build React Vite
+- Upload ke **AWS S3**
+- Static Website Hosting enabled
+
+### Backend
+- AWS Lambda (Node.js 20)
+- API Gateway (HTTP API)
+- DynamoDB (NoSQL)
+
+---
+
+## 📸 Screenshot (Opsional)
+Tambahkan screenshot UI aplikasi di sini untuk memperjelas tampilan sistem.
+
+---
+
+## ⚠️ Catatan Pengembangan
+
+Beberapa peningkatan yang dapat dilakukan di masa depan:
+- Hashing password (bcrypt)
+- Token-based authentication (JWT / Cognito)
+- Pagination & filtering data
+- UI enhancement
+- Logging & monitoring lanjutan
+
+---
+
+## 👨‍💻 Author
+
+**Nama:** Zulfikar Juniarto  
+**GitHub:** https://github.com/USERNAME  
+**Project Type:** Web Application – Serverless Architecture
+
+---
+
+## 📄 Lisensi
+Proyek ini dikembangkan untuk keperluan pembelajaran dan pengembangan sistem berbasis cloud.
