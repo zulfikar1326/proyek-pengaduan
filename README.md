@@ -18,7 +18,7 @@ MTI.,CISDE.,CISDV.,CITA.,MOS.,MCE.
 
 ---
 ## 🌐  LINK ACCESS
--[http://pengaduanwebapp.s3-website-us-east-1.amazonaws.com](https://staging.d137unceakmtcj.amplifyapp.com/)
+-https://staging.d137unceakmtcj.amplifyapp.com/
 ---
 ## 🔐 Autentikasi & Role
 
@@ -102,6 +102,7 @@ Beberapa peningkatan yang dapat dilakukan di masa depan:
 
 ## 📄 Lisensi
 Proyek ini dikembangkan untuk keperluan pembelajaran dan pengembangan sistem berbasis cloud.
+
 
 
 
