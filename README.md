@@ -1,11 +1,15 @@
 #“Perancangan dan Implementasi Sistem Informasi Pengaduan Masyarakat Berbasis Web Menggunakan Arsitektur Serverless AWS”
 
 ---
+
 ## Anggota Kelompok
-  - Zulfikar Juniarto 22010022 (Fronend)
-  - Arya (DevOps)
-  - Muhammad ridho sanjaya 22010048 (Backend)
-  - Akbar (Cloud Engineering)
+| No | Npm | Nama | Role |
+|------|---------|----------|----------|
+| 1 | 22010022 | Zulfikar Juniarto | Fronend |
+| 2 | 22010022 | Arya | DevOps |
+| 3 | 22010022 | Akbar | Cloud Engineering |
+| 4 | 22010048 | Muhammad ridho sanjaya | Backend |
+
 ---
 
 ## 🔐 Autentikasi & Role
@@ -90,4 +94,5 @@ Beberapa peningkatan yang dapat dilakukan di masa depan:
 
 ## 📄 Lisensi
 Proyek ini dikembangkan untuk keperluan pembelajaran dan pengembangan sistem berbasis cloud.
+
 
