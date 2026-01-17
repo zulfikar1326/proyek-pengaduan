@@ -2,9 +2,9 @@
 
 ---
 ## Anggota Kelompok
-  - Zulfikar Juniarto (Fronend)
+  - Zulfikar Juniarto 22010022 (Fronend)
   - Arya (DevOps)
-  - Edo (Backend)
+  - Muhammad ridho sanjaya 22010048 (Backend)
   - Akbar (Cloud Engineering)
 ---
 
@@ -90,3 +90,4 @@ Beberapa peningkatan yang dapat dilakukan di masa depan:
 
 ## 📄 Lisensi
 Proyek ini dikembangkan untuk keperluan pembelajaran dan pengembangan sistem berbasis cloud.
+
