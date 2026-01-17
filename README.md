@@ -1,4 +1,4 @@
-#“Perancangan dan Implementasi Sistem Informasi Pengaduan Masyarakat Berbasis Web Menggunakan Arsitektur Serverless AWS”
+#Perancangan dan Implementasi Sistem Informasi Pengaduan Masyarakat Berbasis Web Menggunakan Arsitektur Serverless AWS
 
 ---
 
@@ -100,6 +100,7 @@ Beberapa peningkatan yang dapat dilakukan di masa depan:
 
 ## 📄 Lisensi
 Proyek ini dikembangkan untuk keperluan pembelajaran dan pengembangan sistem berbasis cloud.
+
 
 
 
