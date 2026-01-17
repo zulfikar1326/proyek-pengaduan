@@ -2,7 +2,7 @@
 
 ---
 
-## Anggota Kelompok
+## Information ✅
 -  Dosen Pengampu : Haris Setiaji,
 MTI.,CISDE.,CISDV.,CITA.,MOS.,MCE.
 - Kelas           : 7TI-P2
@@ -100,6 +100,7 @@ Beberapa peningkatan yang dapat dilakukan di masa depan:
 
 ## 📄 Lisensi
 Proyek ini dikembangkan untuk keperluan pembelajaran dan pengembangan sistem berbasis cloud.
+
 
 
 
