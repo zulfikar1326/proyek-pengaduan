@@ -3,11 +3,17 @@
 ---
 
 ## Anggota Kelompok
+-  Dosen Pengampu : Haris Setiaji,
+MTI.,CISDE.,CISDV.,CITA.,MOS.,MCE.
+- Kelas           : 7TI-P2
+
+---
+## Anggota Kelompok
 | No | Npm | Nama | Role |
 |------|---------|----------|----------|
 | 1 | 22010022 | Zulfikar Juniarto | Fronend |
-| 2 | 22010022 | Arya | DevOps |
-| 3 | 22010022 | Akbar | Cloud Engineering |
+| 2 | 22010043 | ⁠Andriyas Ariya Firmansyah | DevOps |
+| 3 | 22010059 | Akbar Ardiansyah | Cloud Engineering |
 | 4 | 22010048 | Muhammad ridho sanjaya | Backend |
 
 ---
@@ -94,5 +100,6 @@ Beberapa peningkatan yang dapat dilakukan di masa depan:
 
 ## 📄 Lisensi
 Proyek ini dikembangkan untuk keperluan pembelajaran dan pengembangan sistem berbasis cloud.
+
 
 
